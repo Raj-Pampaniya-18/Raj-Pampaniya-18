@@ -1,51 +1,65 @@
-# 🚀 Raj Pampaniya | Building AI That Solves Real Problems
+<!-- 🔥 Animated Banner -->
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F7FF&lines=AI%2FML+Engineer+in+Progress;Computer+Vision+Builder;LLM+Enthusiast;Turning+Ideas+into+Intelligent+Systems" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Raj%20Pampaniya&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
----
+<h1 align="center">🚀 AI/ML Engineer in Progress</h1>
 
-## 🧠 Who Am I?
-
-Hey there! 👋
-
-I'm **Raj Pampaniya**, an **AI/ML Developer in progress** who loves turning ideas into real-world intelligent systems.
-
-💡 I don’t just learn AI — I **build it**.
-From **Computer Vision pipelines** to **LLM-powered assistants**, I focus on creating impactful solutions.
-
-🎯 **Mission:** Become a top AI Engineer and build products that people actually use.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI+That+Solves+Real+Problems;Computer+Vision+Developer;LLM+Explorer;Future+Top+AI+Engineer" />
+</p>
 
 ---
 
-## ⚡ What Makes Me Different?
+## 🧠 About Me
 
-✨ I build **end-to-end AI systems**, not just models
-✨ Strong focus on **real-world applications**
-✨ Passion for **Computer Vision + LLMs combo**
-✨ Always exploring **cutting-edge AI tools & frameworks**
+💡 I’m **Raj Pampaniya**, an AI/ML enthusiast who loves building real-world intelligent systems.
 
----
+⚡ I focus on:
 
-## 💼 Experience
+* Computer Vision 🖼️
+* LLM Applications 🤖
+* End-to-End AI Systems 🔁
 
-### 🔥 AI/ML Developer — Podium Square *(2026 – Present)*
-
-🚀 Built **Floorplan AI (2D → 3D Converter)**
-
-* Designed full pipeline from image → 3D model
-* Used **Mask R-CNN / Cascade R-CNN (MMDetection)**
-* Implemented **real-world scaling system**
-* Solved real architectural problem using AI
-
-🧠 Tech: `PyTorch` `OpenCV` `MMDetection` `Python`
+🎯 Goal: Become a **Top AI Engineer** & build impactful AI products
 
 ---
 
-### 🛠 Desktop Support Engineer — Renew Power *(2024 – 2025)*
+## 🚀 Currently Building (Live Focus)
 
-* Solved real-world technical issues (remote + onsite)
-* Improved workflow efficiency by **25%**
-* Built strong problem-solving mindset
+🔥 Floorplan AI (2D → 3D Converter)
+🔥 LLM-Based AI Teacher
+🔥 Advanced AI Portfolio Projects
+
+---
+
+## 🧩 My AI Mindset
+
+```text
+Problem → Data → Model → Optimization → Real-World Impact
+```
+
+I don’t just train models — I build **complete AI systems**.
+
+---
+
+## ⚙️ Tech Stack
+
+💻 Languages
+`Python`
+
+🧠 AI/ML
+`Machine Learning` `Deep Learning` `Computer Vision` `NLP`
+
+⚙️ Frameworks
+`PyTorch` `TensorFlow` `OpenCV` `MMDetection`
+
+📊 Data
+`Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+☁️ Tools
+`Git` `GitHub` `Flask` `SQL` `AWS Basics`
 
 ---
 
@@ -53,100 +67,71 @@ From **Computer Vision pipelines** to **LLM-powered assistants**, I focus on cre
 
 ### 🏠 Floorplan AI
 
-> Transforming 2D floorplans into intelligent 3D models
-> ✔ Computer Vision + Deep Learning
-> ✔ Object detection (walls, doors, windows)
-> ✔ Real-world scaling system
+✔ Convert 2D plans into 3D models
+✔ Object detection (walls, doors, windows)
+✔ Real-world scaling
 
 ---
 
 ### 🚗 Car Price Predictor
 
-> Predict car prices using ML
-> ✔ Regression models
-> ✔ Feature engineering
-> ✔ Flask deployment
+✔ ML regression model
+✔ Flask deployment
 
 ---
 
 ### 💬 WhatsApp Chat Analyzer
 
-> Turn chats into insights
-> ✔ NLP + Sentiment Analysis
-> ✔ Emoji & behavior analysis
-> ✔ Data visualization
+✔ NLP + Sentiment Analysis
+✔ Data visualization
 
 ---
 
-### 🤖 AI Teacher (LLM-Based) *(In Progress)*
+### 🤖 AI Teacher *(LLM Project)*
 
-> Personalized AI tutor
-> ✔ Prompt engineering
-> ✔ Conversational AI
-> ✔ Adaptive learning system
+✔ Personalized learning assistant
+✔ Prompt engineering
 
 ---
 
-## 🧰 Tech Stack
+## 📊 GitHub Stats
 
-### 🧠 AI / ML
-
-`Machine Learning` `Deep Learning` `Computer Vision` `NLP`
-
-### ⚙️ Tools & Frameworks
-
-`PyTorch` `TensorFlow` `OpenCV` `MMDetection`
-
-### 📊 Data Science
-
-`Pandas` `NumPy` `Matplotlib` `Seaborn`
-
-### 💻 Development
-
-`Python` `Flask` `Git` `GitHub` `SQL`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
-## 🎓 Education
+## 🧠 Contribution Snake (Unique 🔥)
 
-🎓 MCA — Surendranagar University
-🎓 BCA — Dr. Subhash Technical Campus
-
----
-
-## 📜 Certifications
-
-✔ AI Communication — IUCEE
-✔ SSIP — GEC Rajkot
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 🌟 Soft Skills
+## 👀 Profile Views
 
-🧩 Problem Solving
-🤝 Team Collaboration
-📊 Analytical Thinking
-
----
-
-## 📈 GitHub Goals (2026)
-
-🚀 Build 5+ Advanced AI Projects
-🚀 Master LLM + RAG Systems
-🚀 Contribute to Open Source
-🚀 Land Top AI Internship
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Connect With Me
 
 📧 [rajpampaniya18@gmail.com](mailto:rajpampaniya18@gmail.com)
 📱 +91 7990437337
 
 ---
 
-## ⭐ Final Thought
+## ⚡ Fun Fact
 
-> “I don’t just want to use AI — I want to build systems that make a difference.”
+I love turning complex problems into simple AI solutions 🚀
 
-🔥 If you like my work, consider giving a ⭐ to my repositories!
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+</p>
