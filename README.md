@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Raj%20Pampaniya&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">🚀 Raj Pampaniya</h1>
+<h1 align="center"> Raj Pampaniya</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Progress;Computer+Vision+Developer;LLM+Explorer;Building+Real-World+AI+Projects" />
@@ -15,13 +15,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/raj-pampaniya">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.kaggle.com/YOUR_KAGGLE">
+  <a href="https://www.kaggle.com/rajpampaniya">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-  <a href="https://huggingface.co/YOUR_HF">
+  <a href="https://huggingface.co/rajpampaniya">
     <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   </a>
   <a href="mailto:rajpampaniya18@gmail.com">
@@ -31,11 +31,11 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 💡 AI/ML Developer passionate about building **real-world intelligent systems**
 
-🔥 Focus Areas:
+Focus Areas:
 
 * Computer Vision 🖼️
 * LLM Applications 🤖
@@ -45,7 +45,7 @@
 
 ---
 
-## 🚀 Currently Building
+## Currently Building
 
 * 🏠 Floorplan AI (2D → 3D Converter)
 * 🤖 LLM-based AI Teacher
@@ -53,7 +53,7 @@
 
 ---
 
-## 🧩 My Approach
+## My Approach
 
 ```text
 Idea → Data → Model → Optimization → Deployment → Impact
@@ -61,7 +61,7 @@ Idea → Data → Model → Optimization → Deployment → Impact
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,flask,git,github,mysql,vscode" />
@@ -69,7 +69,7 @@ Idea → Data → Model → Optimization → Deployment → Impact
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 🔹 Floorplan AI — Computer Vision + 3D Modeling
 🔹 Car Price Predictor — ML + Flask
@@ -83,38 +83,6 @@ Idea → Data → Model → Optimization → Deployment → Impact
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 👀 Profile Visitors (Working Version ✅)
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME" />
-</p>
-
----
-
-## ⚡ Unique Section (Standout 🔥)
-
-> I don’t just build models.
-> I build **systems that solve real problems.**
-
----
-
----
-Snake game
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
