@@ -7,7 +7,7 @@
 <h1 align="center"> Raj Pampaniya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Progress;Computer+Vision+Developer;LLM+Explorer;Building+Real-World+AI+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Computer+Vision+Developer;LLM+Explorer;Building+Real-World+AI+Projects" />
 </p>
 
 ---
